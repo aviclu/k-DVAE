@@ -5,7 +5,6 @@ This repository includes the accompanying code for the paper "[An Entangled Mixt
 
 
 We heavily relied on the code from the [K-Autoencoders Deep Clustering](https://github.com/yanivopo/K-DAE) repository.
-3
 The instructions are based on the [K-Autoencoders Deep Clustering](https://github.com/yanivopo/K-DAE) repository, and are modified to support our version.
 
 
